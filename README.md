@@ -20,14 +20,14 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=green&lines=■+✨,fork+my+repo+if+you+like+this+session)](https://git.io/typing-svg)
     <br>
-<a href="https://github.com/kingmalvn/malvin.session"><img title="WEB" src="https://img.shields.io/badge/FORK Qadeer Session-QR?color=red&style=for-the-badge&logo=stackshare"></a>
+<a href="https://github.com/Qadeer-bhai/Session-By-Qadeer"><img title="WEB" src="https://img.shields.io/badge/FORK Qadeer Session-QR?color=red&style=for-the-badge&logo=stackshare"></a>
 
 Now Deploy
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=green&lines=☆+Deploy+to+heroku...)](https://git.io/typing-svg)
 
     
-<a href='https://dashboard.heroku.com/new?template=https://github.com/kingmalvn/malvin.session' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-DEPLOY-blue?style=for-the-badge&logo=heroku&logoColor=white'/>
+<a href='https://dashboard.heroku.com/new?template=https://github.com/Qadeer-bhai/Session-By-Qadeer' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-DEPLOY-blue?style=for-the-badge&logo=heroku&logoColor=white'/>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=green&lines=■+How+to+Deploy+on+Render..👇👇.)](https://git.io/typing-svg)
 
