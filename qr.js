@@ -56,18 +56,18 @@ router.get('/', async (req, res) => {
 					let data = fs.readFileSync(__dirname + `/temp/${id}/creds.json`);
 					await delay(800);
 				   let b64data = Buffer.from(data).toString('base64');
-				   let session = await Qr_Code_By_Malvin_King.sendMessage(Qr_Code_By_QADEER_Khan.user.id, { text: '' + b64data });
+				   let session = await Qr_Code_By_Qadeer_Kham.sendMessage(Qr_Code_By_QADEER_Khan.user.id, { text: '' + b64data });
 	
-				   let MALVIN_KING_TEXT = `
+				   let QADEER_KHAN_TEXT = `
 ┏━━━━━━━━━━━━━━
-┃QADEER-BHAI SESSION IS 
+┃ 𝑸𝒂𝒅𝒆𝒆𝒓-𝑲𝒉𝒂𝒏  SESSION IS 
 ┃SUCCESSFULLY
 ┃CONNECTED ✅🔥
 ┗━━━━━━━━━━━━━━━
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-❶ || Creator = 𖥘⚡ QADEER-KHAN ⚡𖥘
+❶ || Creator = 𖥘⚡ 𝐐𝐀𝐃𝐄𝐄𝐑-𝐊𝐇𝐀𝐍 ⚡𖥘
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-❷ || https://whatsapp.com/channel/0029Vac8SosLY6d7CAFndv3Z
+❷ || https://whatsapp.com/channel/0029Vaw6yRaBPzjZPtVtA80A
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
 ❸ || Owner = https://wa.me/923079749129
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
@@ -85,7 +85,7 @@ router.get('/', async (req, res) => {
 					return await removeFile("temp/" + id);
 				} else if (connection === "close" && lastDisconnect && lastDisconnect.error && lastDisconnect.error.output.statusCode != 401) {
 					await delay(10000);
-					QADEER_HAN_QR_CODE();
+					QADEER_KHAN_QR_CODE();
 				}
 			});
 		} catch (err) {
